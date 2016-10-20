@@ -1,2 +1,8 @@
-.idea/
+build/
+bower_components/
 node_modules/
+
+.DS_Store
+dump.rdb
+*.log
+test.js
